@@ -2,4 +2,4 @@
 
 This project involves using Python to analyze CVS Health CEO's letters to shareholders for the last decade (2010 -2019). The goal was to perform a text analysis on these letters to examine how the company's focus has changed over time. For that, a Python program was created to returns the 30 most common words in each letter and how often those words appeared. Using the NLTK package, the program filters out stop words (such as "and," "like," and "but"), removes punctuation, and handles stemming (i.e. words such as "write" and "writing" are listed as the same word). The program output the results into a single spreadsheet to be examined using visualizations in Tableau. Finally, the resulted visualizations were used to uncover whether these word choices reflect how the company direction has changed over time.
 
-Find the report analysis <a href="https://github.com/vanessuniq/cvs-shareholders-letters/blob/main/VanessaFotso-text-analysis.pdf">here</a>
+Find the report analysis [https://github.com/vanessuniq/cvs-shareholders-letters/blob/main/VanessaFotso-text-analysis.pdf] here
